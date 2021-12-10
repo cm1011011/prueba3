@@ -1,0 +1,51 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿A QUÉ ESTILO PERTENECE EL COLEGIO DE NUESTRA SEÑORA DE LA ANTIGUA (MONFORTE DE LEMOS)?",
+        "incorrecta1": "PLATERESCO",
+        "incorrecta2": "PURISTA",
+        "respuesta": "HERRERIANO",
+        "imagen": "https://i.ibb.co/qdL0KJN/Monforte-de-Lemos-Colegio-de-Nuestra-Se-ora-de-la-Antigua-PP-Escolapios-04.jpg",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿A QUÉ ESTILO PERTENECE LA TORRE DE GUADRAMIRO (SALAMANCA)?",
+        "respuesta": "PLATERESCO",
+        "incorrecta1": "HERRERIANO",
+        "incorrecta2": "PURISTA",
+        "imagen": "https://i.ibb.co/qg0YQ7M/torre-de-guadramiro.jpg",
+        "objectFit": "contain"
+
+    },
+   
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿A QUÉ ESTILO PERTENECE LA PLAZA MAYOR DE ALCARAZ (ALBACETE)?",
+        "incorrecta1": "PLATERESCO",
+        "respuesta": "PURISTA",
+        "incorrecta2": "HERRERIANO",
+        "imagen": "https://i.ibb.co/sCxkLd1/alcaraz.jpg",
+        "objectFit": "contain"
+
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿A QUÉ ESTILO PERTENECE LA IGLESIA DE SAN BERNABÉ (MADRID)?",
+        "incorrecta1": "PLATERESCO",
+        "incorrecta2": "PURISTA",
+        "respuesta": "HERRERIANO",
+        "imagen": "https://i.ibb.co/h17mZS0/sanbernabe.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿A QUÉ ESTILO PERTENECE LA CASA DE LAS CONCHAS (SALAMANCA)?",
+        "respuesta": "PLATERESCO",
+        "incorrecta1": "PURISTA",
+        "incorrecta2": "HERRERIANO",
+        "imagen": "https://i.ibb.co/k37Kwg0/casaconchas.jpg",
+        "objectFit": "contain"
+    }
+]
